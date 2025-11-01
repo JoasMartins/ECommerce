@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "titulo": "Vara Sei L\u00e1 VSL200",
+        "categoria": "Pescaria",
+        "descricao": "Vara pra pescar com isso e aquilo de vantagem",
+        "imagem": ".\/imagens\/varaVSL200.jpg",
+        "preco": 74.9
+    },
+    {
+        "titulo": "a",
+        "descricao": "bb",
+        "preco": 0,
+        "id": 2
+    },
+    {
+        "titulo": "a",
+        "descricao": "bb",
+        "preco": 0,
+        "id": 4
+    },
+    {
+        "titulo": "a",
+        "descricao": "bb",
+        "preco": 0,
+        "id": 5
+    },
+    {
+        "titulo": "a",
+        "descricao": "bb",
+        "preco": 0,
+        "id": 6
+    }
+]
